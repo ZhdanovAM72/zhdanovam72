@@ -2,11 +2,9 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zhdanovam72&theme=dark" alt="GitHub Streak" /></a>
 
-I'm a backend developer! My main specialization is fintech, artificial intelligence and robotics. If you need help, I can participate in your project!
+I'm a backend developer! My main specialization is web development, parsers and bots. I am actively studying artificial intelligence. I have experience working in a large company on various projects.
 
-Я бэкенд-разработчик! Моя основная специализация — вэб разработка, парсеры и боты. Активно изучаю искусственный интелект.Имею опыт работы в большой компании на различных проектах. 
-
-Если вам нужна помощь, я могу принять участие в вашем проекте!
+If you need help, I can get involved in your project!
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=Python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
